@@ -1,0 +1,19 @@
+Hoy es viernes 21 de abril.
+Mañana será sábado 22.
+Hoy es lunes,24 de abril, estamos haciendo pruebas sobre los repositorios personales.
+Segundo cambio, no he entendido el chiste del mono. ;) ;)
+Tercer cambio, añado link al github https://github.com/JuanRodrisama/CAPibaras/wiki
+Ultimo cambio por el momento.
+vamos a hacer un html
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Mi página web</title>
+</head>
+<body>
+	<h1>peliculas</h1>
+	<p>BEAU IS AFRAID</p>
+	<img src="beau.jpg" alt="pelicula de estreno">
+</body>
+</html>
+#no cambian nada en las imagenes
