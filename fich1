@@ -4,3 +4,18 @@ Hoy es lunes,24 de abril, estamos haciendo pruebas sobre los repositorios person
 Segundo cambio, no he entendido el chiste del mono. ;) ;)
 Tercer cambio, añado link al github https://github.com/JuanRodrisama/CAPibaras/wiki
 Cambio desde GitHub, probando que puedo ver éste cambio desde Visual Studio.
+
+<html>
+        <head></head>
+        <body>
+        <form method="POST" action="nuevo.php">
+                <p>Pruebas para el dia 24 de abril</p>
+                <p><input type="text" name="pr">PRIMER TEXTO ESCRITO EN CAP</p>
+                <input type="submit" name="send">
+        </form>
+jjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjkjkl
+                <?php
+
+                ?>
+        </body>
+</html>
