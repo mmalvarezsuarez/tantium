@@ -1,0 +1,14 @@
+<html>
+	<head></head>
+	<body>
+	<form method="POST" action="nuevo.php">
+		<p>Pruebas para el día 20 de abril</p>
+		<p><input type="text" name="pr">PRIMER TEXTO ESCRITO EN CAP</p>
+		<input type="submit" name="send">
+	</form>
+jjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjkjkl
+		<?php
+			
+		?>
+	</body>
+</html>ls
