@@ -1,2 +1,3 @@
 #notas
-Repositorio de pruebas
+Repositorio de pruebas. 
+Importante añadir las ramas desde la main.
